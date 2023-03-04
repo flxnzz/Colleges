@@ -1,0 +1,11 @@
+C:\Users\Haikal\Documents\0.5Code\CSharp\GUI-Intro\GUI-Intro\bin\Debug\GUI-Intro.exe.config
+C:\Users\Haikal\Documents\0.5Code\CSharp\GUI-Intro\GUI-Intro\bin\Debug\GUI-Intro.exe
+C:\Users\Haikal\Documents\0.5Code\CSharp\GUI-Intro\GUI-Intro\bin\Debug\GUI-Intro.pdb
+C:\Users\Haikal\Documents\0.5Code\CSharp\GUI-Intro\GUI-Intro\obj\Debug\GUI-Intro.csproj.AssemblyReference.cache
+C:\Users\Haikal\Documents\0.5Code\CSharp\GUI-Intro\GUI-Intro\obj\Debug\GUI-Intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Haikal\Documents\0.5Code\CSharp\GUI-Intro\GUI-Intro\obj\Debug\GUI_Intro.Form1.resources
+C:\Users\Haikal\Documents\0.5Code\CSharp\GUI-Intro\GUI-Intro\obj\Debug\GUI_Intro.Properties.Resources.resources
+C:\Users\Haikal\Documents\0.5Code\CSharp\GUI-Intro\GUI-Intro\obj\Debug\GUI-Intro.csproj.GenerateResource.cache
+C:\Users\Haikal\Documents\0.5Code\CSharp\GUI-Intro\GUI-Intro\obj\Debug\GUI-Intro.csproj.CoreCompileInputs.cache
+C:\Users\Haikal\Documents\0.5Code\CSharp\GUI-Intro\GUI-Intro\obj\Debug\GUI-Intro.exe
+C:\Users\Haikal\Documents\0.5Code\CSharp\GUI-Intro\GUI-Intro\obj\Debug\GUI-Intro.pdb
